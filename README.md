@@ -1,4 +1,4 @@
-# newsfeed_analysis
+# Newsfeed_analysis
 Newsfeed analysis dashboard built with Tableau Public
 Newsfeed User Engagement Analysis (Tableau Dashboard)
 
